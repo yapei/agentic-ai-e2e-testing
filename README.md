@@ -81,7 +81,7 @@ The GitHub server reads your token from the `GITHUB_TOKEN` environment variable.
 
 ## Workflow
 
-See `AgenticAIQAEndToEndWorkflowPrompt.md` for the full 7-step agentic QA workflow:
+This project follows a 7-step agentic QA workflow:
 
 1. Read user story
 2. Create test plan
