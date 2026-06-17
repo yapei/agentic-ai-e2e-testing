@@ -9,6 +9,5 @@ node_modules/
 /playwright/.auth/
 .playwright-mcp/
 
-# MCP configs may contain credentials
-.cursor/mcp.json
-.vscode/mcp.json
+# Local secrets
+.env
