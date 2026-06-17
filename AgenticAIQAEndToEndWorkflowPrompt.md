@@ -221,7 +221,7 @@ Include:
 ```
 Now I need to commit all the test artifacts to the Git repository using the GitHub MCP server.
 
-Git Repository URL: https://github.com/yapei/agentic-ai-e2e-testing.git
+Git Repository URL: git@github.com:yapei/agentic-ai-e2e-testing.git
 
 Please perform the following Git operations:
 
